@@ -6,19 +6,21 @@ Maintain your LeetCode journey synced automatically using [LeetTrack Pro](https:
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Solved** | 2 |
-| **Easy** | 1 (50%) |
-| **Medium** | 1 (50%) |
+| **Total Solved** | 3 |
+| **Easy** | 2 (67%) |
+| **Medium** | 1 (33%) |
 | **Hard** | 0 (0%) |
-| **Current Streak** | 🔥 2 days |
+| **Current Streak** | 🔥 1 days |
 | **Longest Streak** | 🏆 2 days |
 
 ### Languages
 
 - **C**: 2 problems
+- **Java**: 1 problems
 
 ### Recent Submissions
 
+- ✔ **[0136 - Single Number](https://leetcode.com/problems/single-number)** (Easy) - *Solved in Java*
 - ✔ **[0027 - Remove Element](https://leetcode.com/problems/remove-element)** (Easy) - *Solved in C*
 - ✔ **[0007 - Reverse Integer](https://leetcode.com/problems/reverse-integer)** (Medium) - *Solved in C*
 
