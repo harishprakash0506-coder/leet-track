@@ -6,9 +6,9 @@ Maintain your LeetCode journey synced automatically using [LeetTrack Pro](https:
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Solved** | 3 |
-| **Easy** | 2 (67%) |
-| **Medium** | 1 (33%) |
+| **Total Solved** | 4 |
+| **Easy** | 3 (75%) |
+| **Medium** | 1 (25%) |
 | **Hard** | 0 (0%) |
 | **Current Streak** | 🔥 1 days |
 | **Longest Streak** | 🏆 2 days |
@@ -16,10 +16,11 @@ Maintain your LeetCode journey synced automatically using [LeetTrack Pro](https:
 ### Languages
 
 - **C**: 2 problems
-- **Java**: 1 problems
+- **Java**: 2 problems
 
 ### Recent Submissions
 
+- ✔ **[3859 - Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits)** (Easy) - *Solved in Java*
 - ✔ **[0136 - Single Number](https://leetcode.com/problems/single-number)** (Easy) - *Solved in Java*
 - ✔ **[0027 - Remove Element](https://leetcode.com/problems/remove-element)** (Easy) - *Solved in C*
 - ✔ **[0007 - Reverse Integer](https://leetcode.com/problems/reverse-integer)** (Medium) - *Solved in C*
