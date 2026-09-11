@@ -6,25 +6,25 @@ Maintain your LeetCode journey synced automatically using [LeetTrack Pro](https:
 
 | Metric | Details |
 | :--- | :--- |
-| **Total Solved** | 12 |
-| **Easy** | 9 (75%) |
-| **Medium** | 3 (25%) |
+| **Total Solved** | 13 |
+| **Easy** | 10 (77%) |
+| **Medium** | 3 (23%) |
 | **Hard** | 0 (0%) |
 | **Current Streak** | 🔥 2 days |
 | **Longest Streak** | 🏆 2 days |
 
 ### Languages
 
-- **Java**: 10 problems
+- **Java**: 11 problems
 - **C**: 2 problems
 
 ### Recent Submissions
 
 - ✔ **[0941 - Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)** (Easy) - *Solved in Java*
+- ✔ **[0958 - Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)** (Easy) - *Solved in Java*
 - ✔ **[4248 - Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii)** (Medium) - *Solved in Java*
 - ✔ **[4245 - Count Commas in Range](https://leetcode.com/problems/count-commas-in-range)** (Easy) - *Solved in Java*
 - ✔ **[0367 - Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)** (Easy) - *Solved in Java*
-- ✔ **[0371 - Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)** (Medium) - *Solved in Java*
 
 
 *README updated automatically by LeetTrack Pro.*
