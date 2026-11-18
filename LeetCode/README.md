@@ -20,11 +20,11 @@ Maintain your LeetCode journey synced automatically using [LeetTrack Pro](https:
 
 ### Recent Submissions
 
+- ✔ **[0027 - Remove Element](https://leetcode.com/problems/remove-element)** (Easy) - *Solved in C*
 - ✔ **[2844 - Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements-)** (Easy) - *Solved in Java*
 - ✔ **[4313 - Password Strength](https://leetcode.com/problems/password-strength)** (Medium) - *Solved in Java*
 - ✔ **[0397 - Integer Replacement](https://leetcode.com/problems/integer-replacement)** (Medium) - *Solved in Java*
 - ✔ **[3811 - Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string)** (Easy) - *Solved in Java*
-- ✔ **[0164 - Maximum Gap](https://leetcode.com/problems/maximum-gap)** (Medium) - *Solved in Java*
 
 
 *README updated automatically by LeetTrack Pro.*
